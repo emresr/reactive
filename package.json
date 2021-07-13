@@ -1,0 +1,17 @@
+{
+   "name": "next2react",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "directories": {
+      "example": "example"
+   },
+   "scripts": {
+      "dev": "sh ./example.sh && sh ./reactive.sh",
+      "example": "sh ./example.sh",
+      "reactive": "sh ./reactive.sh"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC"
+}
